@@ -45,6 +45,7 @@ li a:hover {
   overflow: scroll;
   height: 100%;
   top: 0;
+  padding-top: 4%;
 }
 
 .col-lg-10 {
