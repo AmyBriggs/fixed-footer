@@ -13,6 +13,7 @@ header {
     top: 0;
     color: black;
     padding: 3px 20px;
+    color: rgb(13, 181, 40);
 }
 
 ul {
@@ -57,7 +58,7 @@ li a:hover {
   width: 90%;
   padding: 30px;
   margin-top: 5%;
-  margin-left: 10%;
+  margin-left: 5%;
   float: none;
   background-color: white !important;
   text-align: center;
@@ -77,4 +78,5 @@ footer {
     bottom: 0;
     color: black;
     padding: 10px 20px;
+    color: purple;
 }
